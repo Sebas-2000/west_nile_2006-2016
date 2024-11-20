@@ -1,0 +1,268 @@
+﻿Week Reported,County,Positive Cases
+39,Alameda,1
+30,Butte,1
+31,Butte,3
+33,Butte,4
+34,Butte,3
+35,Butte,1
+36,Butte,4
+38,Butte,3
+39,Butte,1
+40,Butte,1
+41,Butte,1
+48,Butte,1
+49,Butte,1
+33,Colusa,1
+34,Colusa,1
+42,Colusa,1
+25,Contra Costa,1
+39,Contra Costa,1
+40,Contra Costa,1
+41,Contra Costa,1
+52,Contra Costa,1
+28,Fresno,2
+29,Fresno,2
+30,Fresno,1
+31,Fresno,5
+32,Fresno,2
+33,Fresno,5
+34,Fresno,2
+35,Fresno,5
+36,Fresno,1
+37,Fresno,2
+38,Fresno,1
+39,Fresno,3
+41,Fresno,3
+45,Fresno,1
+46,Fresno,1
+47,Fresno,2
+48,Fresno,5
+33,Glenn,1
+34,Glenn,1
+35,Glenn,3
+36,Glenn,1
+37,Glenn,2
+38,Glenn,1
+40,Glenn,1
+35,Imperial,1
+32,Kern,2
+36,Kern,1
+38,Kern,1
+39,Kern,2
+42,Kern,1
+43,Kern,1
+45,Kern,2
+48,Kern,1
+36,Kings,2
+40,Kings,1
+52,Kings,1
+36,Lake,1
+32,Los Angeles,3
+33,Los Angeles,4
+34,Los Angeles,9
+35,Los Angeles,11
+36,Los Angeles,5
+37,Los Angeles,20
+38,Los Angeles,18
+39,Los Angeles,19
+40,Los Angeles,16
+41,Los Angeles,29
+42,Los Angeles,24
+43,Los Angeles,25
+44,Los Angeles,18
+45,Los Angeles,20
+46,Los Angeles,10
+47,Los Angeles,3
+49,Los Angeles,13
+50,Los Angeles,2
+51,Los Angeles,1
+52,Los Angeles,3
+31,Madera,1
+32,Madera,1
+38,Madera,1
+37,Mendocino,1
+39,Merced,1
+28,Orange,1
+30,Orange,2
+31,Orange,4
+32,Orange,6
+33,Orange,12
+34,Orange,9
+35,Orange,27
+36,Orange,24
+37,Orange,31
+38,Orange,22
+39,Orange,17
+40,Orange,16
+41,Orange,29
+42,Orange,14
+43,Orange,16
+44,Orange,24
+45,Orange,2
+46,Orange,3
+47,Orange,2
+49,Orange,1
+50,Orange,1
+35,Placer,1
+37,Placer,2
+42,Placer,2
+43,Placer,2
+36,Riverside,1
+38,Riverside,3
+39,Riverside,1
+40,Riverside,3
+41,Riverside,1
+44,Riverside,2
+47,Riverside,1
+52,Riverside,2
+31,Sacramento,2
+33,Sacramento,1
+35,Sacramento,1
+37,Sacramento,3
+38,Sacramento,3
+33,San Bernardino,1
+34,San Bernardino,1
+36,San Bernardino,2
+37,San Bernardino,3
+38,San Bernardino,1
+39,San Bernardino,3
+40,San Bernardino,2
+44,San Bernardino,1
+45,San Bernardino,1
+46,San Bernardino,1
+47,San Bernardino,1
+49,San Bernardino,4
+36,San Diego,2
+41,San Diego,2
+42,San Diego,1
+43,San Diego,1
+44,San Diego,3
+49,San Diego,2
+31,San Joaquin,1
+35,San Joaquin,1
+36,San Joaquin,1
+37,San Joaquin,1
+38,San Joaquin,1
+40,San Joaquin,2
+41,San Joaquin,1
+45,San Joaquin,1
+32,Santa Clara,1
+33,Santa Clara,2
+36,Santa Clara,2
+39,Santa Clara,1
+40,Santa Clara,1
+41,Santa Clara,1
+44,Santa Clara,2
+32,Shasta,1
+37,Shasta,1
+27,Solano,1
+52,Solano,4
+27,Stanislaus,2
+29,Stanislaus,1
+30,Stanislaus,1
+31,Stanislaus,1
+32,Stanislaus,2
+33,Stanislaus,6
+34,Stanislaus,4
+36,Stanislaus,3
+37,Stanislaus,1
+38,Stanislaus,3
+39,Stanislaus,2
+40,Stanislaus,3
+42,Stanislaus,2
+49,Stanislaus,1
+50,Stanislaus,1
+34,Sutter,1
+36,Sutter,1
+40,Sutter,2
+44,Sutter,1
+45,Sutter,1
+46,Sutter,1
+52,Sutter,1
+35,Tehama,1
+37,Tehama,1
+38,Tehama,1
+41,Tehama,1
+26,Tulare,1
+28,Tulare,2
+31,Tulare,1
+34,Tulare,1
+35,Tulare,1
+36,Tulare,1
+37,Tulare,2
+38,Tulare,1
+39,Tulare,3
+40,Tulare,1
+41,Tulare,5
+52,Tulare,2
+44,Ventura,1
+37,Yolo,1
+38,Yolo,3
+39,Yolo,1
+40,Yolo,5
+42,Yolo,1
+52,Yolo,4
+33,Yuba,1
+34,Yuba,1
+36,Yuba,1
+38,Yuba,1
+51,Yuba,1
+52,Yuba,1
+1,Alameda,0
+1,Alpine,0
+1,Amador,0
+1,Butte,0
+1,Calaveras,0
+1,Colusa,0
+1,Contra Costa,0
+1,Del Norte,0
+1,El Dorado,0
+1,Fresno,0
+1,Glenn,0
+1,Humboldt,0
+1,Imperial,0
+1,Inyo,0
+1,Kern,0
+1,Kings,0
+1,Lake,0
+1,Lassen,0
+1,Los Angeles,0
+1,Madera,0
+1,Marin,0
+1,Mariposa,0
+1,Mendocino,0
+1,Merced,0
+1,Modoc,0
+1,Mono,0
+1,Monterey,0
+1,Napa,0
+1,Nevada,0
+1,Orange,0
+1,Placer,0
+1,Plumas,0
+1,Riverside,0
+1,Sacramento,0
+1,San Benito,0
+1,San Bernardino,0
+1,San Diego,0
+1,San Francisco,0
+1,San Joaquin,0
+1,San Luis Obispo,0
+1,San Mateo,0
+1,Santa Barbara,0
+1,Santa Clara,0
+1,Santa Cruz,0
+1,Shasta,0
+1,Sierra,0
+1,Sisikyou,0
+1,Solano,0
+1,Sonoma,0
+1,Stanislaus,0
+1,Sutter,0
+1,Tehama,0
+1,Trinity,0
+1,Tulare,0
+1,Tuolumne,0
+1,Ventura,0
+1,Yolo,0
+1,Yuba,0
