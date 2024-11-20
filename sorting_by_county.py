@@ -53,6 +53,12 @@ def new_file_maker(df: pd.DataFrame, name: str) -> None:
     return
 
 def main(folder: str,file: str) -> None:
+    """Main function that does everything by sequentially calling the other functions. Needs a csv file to read.
+
+    Args:
+        folder (str): folder location of the files you want to read from
+        file (str): file name without the .csv extension
+    """
     df: pd.DataFrame = pd_reader(folder + file + ".csv")
     holder: dict[str: int] = dict_builder(df)
     new_df: pd.DataFrame = data_frame_maker(holder)
@@ -60,6 +66,8 @@ def main(folder: str,file: str) -> None:
     return
 
 def repeater() -> None:
+    """Function specific for my use case. Calls main() for each year in the targets list
+    """
     targets:list[str] = ['2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016']
     for i in targets:
         main("Yearly CSV/",i)
